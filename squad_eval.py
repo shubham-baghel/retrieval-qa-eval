@@ -66,7 +66,7 @@ import sb_sed
 from scipy.stats import rankdata
 import tensorflow as tf
 import tensorflow_hub as hub
-import tf_sentencepiece
+#import tf_sentencepiece
 
 
 # The saved model signature for the query encoder.
